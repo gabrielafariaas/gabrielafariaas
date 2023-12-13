@@ -8,12 +8,16 @@
 </div> 
 
 <br>
-<div align="center" style="width:100%;" >  
+<div style="width:100%;  display: flex; flex-flow: row wrap;" >  
   
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=gabrielafariaas&show_icons=true&count_private=true&hide_border=false&er_radius=3&borderus=3&border_color=4169E1&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" alt="GitHub Stats for MishManners" width="700">
+  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=gabrielafariaas&show_icons=true&count_private=true&hide_border=false&er_radius=3&borderus=3&border_color=4169E1&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" alt="GitHub Stats for gabrielafariaas">
+  
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=gabrielafariaas&theme=github-dark-blue&stroke=4169E1&border=4169E1&fire=4169E1&ring=4169E1&sideNums=4169E1" width="700">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielafariaas&layout=compact&hide_border=false&border_color=4169E1&title_color=4169E1&text_color=ff91a4&bg_color=0d1117" />
+  <p style="display: flex; margin-top: 2%;">
+    <img width="57%" src="https://github-readme-streak-stats.herokuapp.com?user=gabrielafariaas&theme=github-dark-blue&stroke=4169E1&border=4169E1&fire=4169E1&ring=4169E1&sideNums=4169E1">&nbsp;&nbsp;
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielafariaas&layout=compact&hide_border=false&border_color=4169E1&title_color=4169E1&text_color=ff91a4&bg_color=0d1117" />
+  </p>
+ 
 </div>
  
 <br>
