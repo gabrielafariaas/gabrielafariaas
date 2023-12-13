@@ -20,13 +20,13 @@
 
 ## Contatos:
 <div align="center"> 
-  <a href="https://instagram.com/gabrielafariaas_" target="_blank">
+  <a href="https://instagram.com/gabrielafariaas_" target="_blank" style="border-radius: 8px">
     <img src="https://img.shields.io/badge/-Instagram-962fbf?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 8px"> 
   </a>
-  <a href = "mailto:gmffarias2004@gmail.com"> 
+  <a href = "mailto:gmffarias2004@gmail.com" target="_blank" style="border-radius: 8px"> 
     <img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 8px" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/gabriela-fariaas" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriela-fariaas" target="_blank" style="border-radius: 8px">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px" target="_blank">
   </a> 
 </div>
@@ -79,9 +79,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
 <details align="left" >
-<div align="center">
-  <br>
-  <img width="29%" src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592735588597790/gabs-animation.gif?ex=658c88f4&is=657a13f4&hm=38cf3311c2a20ca5b2356cd31a1d172ae3cc4c8b9253c520b5f2078d0643d4f3&" />
-</div>
-<h2 style="color: #4169e1;">#Thanks for the visit 🫶🏻</h2>
+  <div align="center">
+    <h2 style="color: #4169e1;">#Thanks for the visit 🫶🏻</h2>
+    <img width="29%" src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592735588597790/gabs-animation.gif?ex=658c88f4&is=657a13f4&hm=38cf3311c2a20ca5b2356cd31a1d172ae3cc4c8b9253c520b5f2078d0643d4f3&" />
+  </div>
 
