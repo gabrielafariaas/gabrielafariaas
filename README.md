@@ -10,7 +10,7 @@
 <br>
 <div style="width:100%;  display: flex; flex-flow: row wrap;" >  
   
-  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=gabrielafariaas&show_icons=true&count_private=true&hide_border=false&er_radius=3&borderus=3&border_color=4169E1&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" alt="GitHub Stats for gabrielafariaas">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=gabrielafariaas&show_icons=true&count_private=true&hide_border=false&er_radius=3&borderus=3&border_color=4169E1&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" alt="GitHub Stats for gabrielafariaas">
   
 
   <p style="display: flex; margin-top: 2%;">
