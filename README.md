@@ -31,11 +31,12 @@
  ### No momento estudando:
 ![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
- <div>
-  <a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>
- </div>
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="" /> 
+  
+</div>
   
 
 
