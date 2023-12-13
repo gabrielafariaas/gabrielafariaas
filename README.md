@@ -84,7 +84,7 @@
 
 <details align="left" >
   <div align="center">
-    <h2 style="color: #4169e1;">#Thanks for the visit 🫶🏻</h2>
+    <h2 style="color: #4169e1;">Thanks for the visit 🫶🏻</h2>
     <img width="29%" src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592735588597790/gabs-animation.gif?ex=658c88f4&is=657a13f4&hm=38cf3311c2a20ca5b2356cd31a1d172ae3cc4c8b9253c520b5f2078d0643d4f3&" />
   </div>
 
