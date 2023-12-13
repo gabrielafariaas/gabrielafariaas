@@ -42,7 +42,7 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 </div>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielafariaas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielafariaas&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
