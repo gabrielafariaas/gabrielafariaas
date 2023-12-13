@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img width="29%" height="180px" src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592736079335515/gabs-anime.gif?ex=658c88f4&is=657a13f4&hm=9015c55b276905670a18d2cfd5666af7a5582686ad44f8e837a020aec162e05a&" />
+  <img width="29%" src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592736079335515/gabs-anime.gif?ex=658c88f4&is=657a13f4&hm=9015c55b276905670a18d2cfd5666af7a5582686ad44f8e837a020aec162e05a&" />
 </div> 
 
 <br>
@@ -81,7 +81,7 @@
 <details align="left" >
 <div align="center">
   <br>
-  <img width="29%" height="150px" src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592735588597790/gabs-animation.gif?ex=658c88f4&is=657a13f4&hm=38cf3311c2a20ca5b2356cd31a1d172ae3cc4c8b9253c520b5f2078d0643d4f3&" />
+  <img width="29%" src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592735588597790/gabs-animation.gif?ex=658c88f4&is=657a13f4&hm=38cf3311c2a20ca5b2356cd31a1d172ae3cc4c8b9253c520b5f2078d0643d4f3&" />
 </div>
 <h2 style="color: #4169e1;">#Thanks for the visit 🫶🏻</h2>
 
