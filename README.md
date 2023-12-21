@@ -79,7 +79,7 @@
   <img width=50% src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592736620380292/octocat-1702498461579.png?ex=658c88f5&is=657a13f5&hm=ea8f3d2321d4ce04975aa8227d10c948ddbd56b3a3c2cb10300cdb0ac91434ec&">
 </div>
 
-![Snake animation](https://github.com/gabrielafariaas/gabrielafariaas/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/gabrielafariaas/gabrielafariaas/blob/output/github-contribution-grid-snake.svg) -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
 <details align="left" >
