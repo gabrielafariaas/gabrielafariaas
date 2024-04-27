@@ -74,6 +74,7 @@
   </div>
 </div>
 
+<details align="left" >
 ## E este é o meu github!
 <div align="center">
   <img width=50% src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592736620380292/octocat-1702498461579.png?ex=662e08b5&is=662cb735&hm=fa3c8678d1c7fe12dee8745f208c3979990ad59944b8279731e637d8f0a3189e&">
@@ -82,7 +83,6 @@
 <!-- ![Snake animation](https://github.com/gabrielafariaas/gabrielafariaas/blob/output/github-contribution-grid-snake.svg) -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
-<details align="left" >
   <div align="center">
     <h2 style="color: #4169e1;">Thanks for the visit 🫶🏻</h2>
     <img width="29%" src="https://cdn.discordapp.com/attachments/1184592571616460800/1184592735588597790/gabs-animation.gif?ex=658c88f4&is=657a13f4&hm=38cf3311c2a20ca5b2356cd31a1d172ae3cc4c8b9253c520b5f2078d0643d4f3&" />
